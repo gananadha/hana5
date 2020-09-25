@@ -4,5 +4,11 @@
       "object": "EKKO",
       "schema": "SAPHANADB"
     }
+  },
+  "EKPO": {
+    "target": {
+      "object": "EKPO",
+      "schema": "SAPHANADB"
+    }
   }
 }
