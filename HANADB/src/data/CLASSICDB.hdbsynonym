@@ -1,0 +1,8 @@
+{
+  "EKKO": {
+    "target": {
+      "object": "EKKO",
+      "schema": "SAPHANADB"
+    }
+  }
+}
